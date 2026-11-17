@@ -1,0 +1,13 @@
+C:\Users\HP\Downloads\InventorySystem_v3\InventorySystem\src\main\java\com\inventory\AdminOrdersServlet.java
+C:\Users\HP\Downloads\InventorySystem_v3\InventorySystem\src\main\java\com\inventory\AuthFilter.java
+C:\Users\HP\Downloads\InventorySystem_v3\InventorySystem\src\main\java\com\inventory\DashboardServlet.java
+C:\Users\HP\Downloads\InventorySystem_v3\InventorySystem\src\main\java\com\inventory\DBConnection.java
+C:\Users\HP\Downloads\InventorySystem_v3\InventorySystem\src\main\java\com\inventory\ImageServlet.java
+C:\Users\HP\Downloads\InventorySystem_v3\InventorySystem\src\main\java\com\inventory\LoginServlet.java
+C:\Users\HP\Downloads\InventorySystem_v3\InventorySystem\src\main\java\com\inventory\LogoutServlet.java
+C:\Users\HP\Downloads\InventorySystem_v3\InventorySystem\src\main\java\com\inventory\MyOrdersServlet.java
+C:\Users\HP\Downloads\InventorySystem_v3\InventorySystem\src\main\java\com\inventory\ProductServlet.java
+C:\Users\HP\Downloads\InventorySystem_v3\InventorySystem\src\main\java\com\inventory\PurchaseServlet.java
+C:\Users\HP\Downloads\InventorySystem_v3\InventorySystem\src\main\java\com\inventory\RegisterServlet.java
+C:\Users\HP\Downloads\InventorySystem_v3\InventorySystem\src\main\java\com\inventory\UserHomeServlet.java
+C:\Users\HP\Downloads\InventorySystem_v3\InventorySystem\src\main\java\com\inventory\Util.java
